@@ -1,0 +1,42 @@
+[
+  [
+    "aws",
+    33
+  ],
+  [
+    "sql",
+    9
+  ],
+  [
+    "python",
+    9
+  ],
+  [
+    "java",
+    5
+  ],
+  [
+    "machine learning",
+    4
+  ],
+  [
+    "spark",
+    3
+  ],
+  [
+    "azure",
+    2
+  ],
+  [
+    "gcp",
+    2
+  ],
+  [
+    "docker",
+    1
+  ],
+  [
+    "kubernetes",
+    1
+  ]
+]
